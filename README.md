@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/share/1Byn1JfMPC/"><u>Md. Mozaffar Hossain</u></a></h1>
 <h3 align="center">Network Engineer, Hardware & IT Support, ERP  </h3>
 <p align="center">
-AI Engineer building intelligent, production-ready applications with LLMs, RAG pipelines, AI agents, and intelligent automation. I combine Python, Django/FastAPI, and modern AI engineering to turn foundation models into reliable systems that solve real-world problems.
+Versatile IT Professional with expertise in network engineering, hardware infrastructure, and ERP systems. Proven track record of designing secure network architectures, diagnosing complex hardware issues, and optimizing ERP platforms to streamline business operations. Adept at providing high-tier technical support and aligning IT solutions with organizational goals.
 </p>
 <p align="center"><a href="it.mozaffar@gmail.com"><u>it.mozaffar@gmail.com</u></a> | <a href="https://www.facebook.com/share/1Byn1JfMPC/"><u>Facebook</u></a>
 </p>
@@ -9,8 +9,18 @@ AI Engineer building intelligent, production-ready applications with LLMs, RAG p
 ### 🚀 What I Do
 - **Technical Support:** Troubleshoot hardware, software, network problems, and assist end-users with daily tech issues.
 - **System & Network Administration:** Install, configure, and maintain servers, operating systems, local area networks (LAN), and wide area networks (WAN).
-- **Cybersecurity & Compliance** Monitor networks for security threats, install firewalls and antivirus tools, and enforce data security policies.
-- **System Upgrades & Evaluatioe** Research emerging technologies, apply software patches, and plan future IT infrastructure improvements
+- **Cybersecurity & Compliance:** Monitor networks for security threats, install firewalls and antivirus tools, and enforce data security policies.
+- **System Upgrades & Evaluatioe:** Research emerging technologies, apply software patches, and plan future IT infrastructure improvements
+- **IT Support / Help Desk Specialist:** Resolves day-to-day user tickets and hardware issues.
+- **Systems / Network Administrator:** Manages server reliability, access permissions, and network connectivity.
+- **Information Security Analyst:** Protects corporate systems and data from cyber attacks.
+- **Software / Web Developer:** Writes and maintains application code.
+- **IT Project Manager:** Oversees technology rollouts, budgets, and cross-functional teams.
+
+
+
+
+
 
 
 ---
