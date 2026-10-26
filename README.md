@@ -7,9 +7,10 @@ AI Engineer building intelligent, production-ready applications with LLMs, RAG p
 </p>
 
 ### 🚀 What I Do
-- **Generative AI & LLMs:** Building RAG pipelines, semantic search engines, and prompt engineering tools using OpenAI API, LangChain, and Hugging Face.
-- **Backend Engineering:** Developing robust APIs and web applications with **Python** and **Django**.
-- **Data & Databases:** Designing data warehouses, PostgreSQL schemas, and working with vector databases.
+- **Technical Support:** Troubleshoot hardware, software, network problems, and assist end-users with daily tech issues.
+- **System & Network Administration:** Install, configure, and maintain servers, operating systems, local area networks (LAN), and wide area networks (WAN).
+- **Cybersecurity & Compliance** Monitor networks for security threats, install firewalls and antivirus tools, and enforce data security policies.
+- **System Upgrades & Evaluatioe** Research emerging technologies, apply software patches, and plan future IT infrastructure improvements
 
 
 ---
